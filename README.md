@@ -1,2 +1,2 @@
 # Spotfy
- Copia do site  spotfy
+ Cópia do site  Spotfy
